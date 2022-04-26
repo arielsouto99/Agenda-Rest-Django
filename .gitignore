@@ -1,0 +1,4 @@
+
+agenda/applications/home/migrations/*
+agenda/applications/persona/migrations/*
+agenda/secret.json
